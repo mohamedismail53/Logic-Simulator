@@ -409,7 +409,7 @@ public:
                 if (out == "ALL")
                     printAll();
                 else
-                    cout << findNode(out)->getName() << ": " << findNode(out)->getValue() << endl;
+                    cout << findNode(out)->getName() << ": " << findNode(out)->getValue() << '\n';
             }
             else if (Nodes == "SIM")
                 startSimulate();
@@ -582,7 +582,6 @@ void parseInput(vector<pair<string, int>>& nodes, vector<pair<string, vector<pai
 }
 
 int main() {
-
     // to run oop solution
     GateGenerator test;
     test.parseInput();
