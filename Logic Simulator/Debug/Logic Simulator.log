@@ -1,0 +1,3 @@
+﻿  Logic Simulator.cpp
+C:\Users\hp\OneDrive\Desktop\Si-Vision Intern\Logic Simulator\Logic Simulator\Logic Simulator.cpp(390,27): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1168: cannot open C:\Users\hp\OneDrive\Desktop\Si-Vision Intern\Logic Simulator\Debug\Logic Simulator.exe for writing
